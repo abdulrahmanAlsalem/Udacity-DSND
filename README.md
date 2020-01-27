@@ -1,6 +1,6 @@
 # Write A Data Science Blog Post Project
 ## Installation 
-> Libraries been used was: pandas, statsmodels.
+> Python 3, libraries been used was: pandas, statsmodels.
 
 ## Project Motivation
 > Every year, Stack Overflow conducts a massive survey of people on the site, covering all sorts of information like programming languages, salary, code style and various other information. 
@@ -8,10 +8,18 @@
 > In this project we will dive into the survey, and explore some findings about salaries, career satisfaction, and some personal traits about developers.
 
 ## Files Descriptions
-> 
+> .ipynb_checkpoints: you can go through the notebook quickly within github.
+# 
+> so-survey-2017: here you can find two data sets, schema for the questions were answered. public results for the responses.
+# 
+> projectNotebook.ipynb: here you can download the notebook and work with it.
 
 ## Findings Summary 
->
+> The career satisfaction with those who has low experience, can be lower than who have a high experience. In development field
+#
+> There are some personal traits can affect your salary as a developer.
+# 
+> caring ONLY about money, does not make more money.
 
 ## Acknowledgements
-> 
+> StackOverFlow survey through kaggel.
