@@ -1,6 +1,6 @@
 # Write A Data Science Blog Post Project
 ## Installation 
-> Libraries been used was: pandas, 
+> Libraries been used was: pandas, statsmodels.
 
 ## Project Motivation
 > Every year, Stack Overflow conducts a massive survey of people on the site, covering all sorts of information like programming languages, salary, code style and various other information. 
@@ -10,3 +10,8 @@
 ## Files Descriptions
 > 
 
+## Findings Summary 
+>
+
+## Acknowledgements
+> 
