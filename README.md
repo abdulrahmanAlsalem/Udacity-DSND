@@ -19,7 +19,7 @@
 #
 > There are some personal traits can affect your salary as a developer.
 # 
-> caring ONLY about money, does not make more money.
+> Caring ONLY about money, does not make more money.
 
 ## Acknowledgements
 > StackOverFlow survey through kaggel.
